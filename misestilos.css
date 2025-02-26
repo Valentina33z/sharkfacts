@@ -1,0 +1,219 @@
+@charset "utf-8";
+.navcolor {
+    background-color: #035FA5;
+}
+.textoooo {
+    font-family: "Nunito ExtraBold";
+
+
+}
+.jumbotronnnnnn {
+    background-position: 0% center;
+    background-size: cover;
+    border-top-left-radius: 0px;
+    background-image: url(imagenes/tiburon%20inicio.png);
+    background-repeat: no-repeat;
+}
+.textojumbo {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Nunito ExtraBold";
+    font-weight: 700;
+    text-align: right;
+    text-decoration: none;
+    /* [disabled]font-variant: normal; */
+    font-size: x-large;
+    margin-bottom: -8px;
+    margin-top: 175px;
+}
+.textojumbo2 {
+    color: hsla(0,0%,100%,1.00);
+    font-family: Nunito;
+    text-align: right;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: large;
+    margin-bottom: -29px;
+}
+.lineabajo {
+    z-index: 1000;
+    bottom: 500px;
+    margin-top: -52px;
+    background-color: hsla(206,96%,33%,1.00);
+}
+.cuadrado {
+    z-index: 1010;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    margin-top: -60px;
+    margin-left: 30px;
+    border-radius: 90px;
+    font-family: "Nunito ExtraBold";
+    background-color: #639BC6;
+    text-align: center;
+    margin-right: -58px;
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+}
+.titulooooooo {
+    color: #FFFFFF;
+    font-family: "Nunito ExtraBold";
+    font-size: 23px;
+    text-align: center;
+}
+.descubrimientos {
+    background-color: #639BC6;
+    border-radius: 184px;
+    z-index: 1010;
+    padding-bottom: 2px;
+    padding-top: 17px;
+    padding-left: 0px;
+    text-align: center;
+    margin-right: 92px;
+    margin-left: -46px;
+}
+
+.carrusel {
+    padding-top: 0px;
+    background-color: #ABCFEB;
+    z-index: 10000;
+    margin-top: -32px;
+}
+
+
+
+.textojumboo {
+    font-family: Nunito;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+}
+
+.titulojumbo {
+    color: #FFFFFF;
+}
+.textointro {
+    color: #063867;
+    font-family: Nunito, "Nunito Black", "Nunito ExtraBold", "Nunito ExtraLight", "Nunito Light", "Nunito Medium", "Nunito Sans Black", "Nunito Sans Normal", "Nunito Sans Normal Black", "Nunito Sans Normal ExtraBold", "Nunito Sans Normal ExtraLight", "Nunito Sans Normal Light", "Nunito Sans Normal Medium", "Nunito Sans Normal SemiBold";
+    text-align: center;
+}
+.xssgvs {
+    z-index: 10000;
+    margin-top: -216px;
+}
+.titulot {
+    color: #063867;
+    font-family: "Nunito ExtraBold";
+    font-size: 31pt;
+    text-align: center;
+}
+.subtitulo {
+    font-family: "Nunito Black";
+    color: #063867;
+    font-size: 18pt;
+    text-align: center;
+}
+.imagent1 {
+    margin-left: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.infot1 {
+    padding-left: 88px;
+    color: #063867;
+    font-family: "Nunito Medium";
+    text-align: center;
+    padding-right: 85px;
+}
+.infot2 {
+    padding-left: 88px;
+    color: #ABCFEB;
+    font-family: "Nunito Medium";
+    text-align: center;
+    padding-right: 85px;
+}
+.centroc {
+    text-align: center;
+    padding-right: 109px;
+}
+.finalllll {
+    background-color: #399CC9;
+}
+.infoabajo {
+    color: #FFFFFF;
+    font-family: "Nunito Medium";
+}
+.tiburonc {
+    padding-left: 0px;
+    margin-left: 756px;
+    margin-bottom: 25px;
+    margin-top: -119px;
+
+}
+.tiburon2 {
+    margin-left: 137px;
+    margin-top: -71px;
+}
+.tiburon3 {
+    margin-left: 738px;
+    margin-top: -93px;
+    margin-right: -114px;
+}
+.tiburon4 {
+    margin-top: -61px;
+    margin-left: 168px;
+}
+
+
+
+
+
+
+
+.infochiquita {
+    color: #063867;
+    font-family: "Nunito Medium";
+}
+
+.txttti {
+    font-family: "Nunito ExtraBold";
+    font-size: 24pt;
+    color: #063867;
+    text-align: center;
+}
+.txttt2 {
+    font-family: "Nunito ExtraBold";
+    font-size: 24pt;
+    color: #ABCFEB;
+    text-align: center;
+}
+
+
+.bckt1 {
+    background-color: #ABCFEB;
+}
+.bckt2 {
+    background-color: #063867;
+}
+.tuburoooon {
+    margin-left: 445px;
+    margin-bottom: -70px;
+}
+.dato1 {
+    padding-left: 0px;
+
+
+}
+.fondooooooo {
+    background-color: #E9F5FF;
+}
+.fondito {
+    background-color: #006DA4;
+}
+.info1 {
+}
+.info2 {
+}
+t {
+}
