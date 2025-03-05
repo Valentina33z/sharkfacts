@@ -104,16 +104,24 @@
 }
 .titulot {
     color: #063867;
-    font-family: "Nunito ExtraBold";
+    font-family: "Nunito SemiBold";
     font-size: 31pt;
     text-align: center;
 }
 .subtitulo {
-    font-family: "Nunito Black";
+    font-family: "Nunito Medium";
     color: #063867;
-    font-size: 18pt;
+    font-size: 16px;
     text-align: center;
 }
+.forr {
+    bottom: 237px;
+    width: 280px;
+    height: 51px;
+    border-radius: 19px;
+
+}
+
 .imagent1 {
     margin-left: 20px;
     padding-right: 0px;
@@ -200,6 +208,7 @@
     margin-left: 445px;
     margin-bottom: -70px;
 }
+
 .dato1 {
     padding-left: 0px;
 
@@ -215,5 +224,69 @@
 }
 .info2 {
 }
-t {
+.contactoo {
+}
+.dondooo {
+    background-color: #C3D9E9;
+}
+.bcfon {
+    background-color: #7CCFF2;
+    border-radius: 29px;
+    width: 270px;
+    height: 43px;
+    color: #035FA5;
+    padding-left: 29px;
+    margin-right: 16px;
+}
+.margeeeeeeen {
+    margin-top: 1px;
+    margin-left: -37px;
+
+
+
+
+}
+.imagentt {
+    border-radius: 89px;
+    height: 463px;
+    width: 769px;
+    margin-left: -3px;
+}
+.jumbocont {
+    border-radius: 106px;
+    background-color: #0071A8;
+    width: 709px;
+    height: 458px;
+    margin-top: 27px;
+    margin-left: 10px;
+    color: #FFFFFF;
+    font-family: "Nunito SemiBold";
+    font-size: 13pt;
+}
+
+
+
+.bcfong {
+    border-radius: 29px;
+    background-color: #7CCFF2;
+    width: 548px;
+    height: 48px;
+    color: #FFFFFF;
+    margin-top: -28px;
+    padding-left: 28px;
+}
+.bcfong1 {
+    border-radius: 29px;
+    background-color: #DFEBF1;
+    color: #035FA5;
+}
+.botooon {
+    margin-top: 11px;
+    background-color: #00ACE9;
+    border-radius: 56px;
+    font-family: "Nunito Medium";
+    height: 48px;
+    width: 203px;
+}
+#nombre {
 }
